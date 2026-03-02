@@ -1,0 +1,21 @@
+# Day 1 - Linux Basics - March 2 2025
+
+## What is DevOps?
+DevOps connects Dev and Ops teams to deliver software faster and reliably.
+
+## Commands I learned today:
+- whoami     → shows current user
+- pwd        → shows current directory
+- ls         → lists files
+- ls -la     → lists files with permissions and hidden files
+- mkdir      → creates a folder
+- touch      → creates a file
+- cat        → reads a file
+- echo       → prints text or writes to file
+- cd         → change directory
+- hostname   → shows machine name
+
+## Environment Setup:
+- Azure VM created: Ubuntu 22.04
+- IP: 52.140.51.207
+- Connected VS Code via Remote SSH
