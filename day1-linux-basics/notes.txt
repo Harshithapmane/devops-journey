@@ -17,5 +17,4 @@ DevOps connects Dev and Ops teams to deliver software faster and reliably.
 
 ## Environment Setup:
 - Azure VM created: Ubuntu 22.04
-- IP: 52.140.51.207
 - Connected VS Code via Remote SSH
