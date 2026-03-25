@@ -1,4 +1,4 @@
-# Day 1 - Linux Basics - March 2 2025
+# Day 1 - Linux Basics - March 24 2025
 
 ## What is DevOps?
 DevOps connects Dev and Ops teams to deliver software faster and reliably.
